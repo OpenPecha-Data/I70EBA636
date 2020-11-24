@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W2DB5977
   title: 'རྗེ་བཙུན་བླ་མ་ཤཱཀྱ་ཤྲཱི་ཛྙཱ་ནའི་རྣམ་ཐར་། '
-  volume: ''
+  volume:
+    62fbf5c3c1244585aa4248638a07c7ef:
+      image_group_id: I1PD28141
+      title: Volume 1 of rje btsun bla ma shAkya shrI dz+nyA na'i rnam thar
+      volume_number: 1
+      total_pages: 171
   author: ''
+ebook_metadata:
+  title: 'རྗེ་བཙུན་བླ་མ་ཤཱཀྱ་ཤྲཱི་ཛྙཱ་ནའི་རྣམ་ཐར་། '
+  author: ''
+  sku: P007978
+  cover: cover.jpg
+  layers:
+  - pagination
